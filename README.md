@@ -42,9 +42,9 @@ I am always open to discussing system architecture, SaaS MVP development, or str
 
 ## GitHub Analytics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achrafsamih05&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats-six-iota-32fve8mtp7.vercel.app/api/top-langs/?username=achrafsamih05&layout=compact&theme=vision-friendly-dark)
 
-![achraf samih's GitHub stats](https://github-readme-stats.vercel.app/api?username=achrafsamih05&show_icons=true&theme=vision-friendly-dark)
+![achraf samih's GitHub stats](https://github-readme-stats-six-iota-32fve8mtp7.vercel.app/api?username=achrafsamih05&show_icons=true&theme=vision-friendly-dark)
 
 ---
 
