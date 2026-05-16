@@ -51,4 +51,4 @@ I am always open to discussing system architecture, SaaS MVP development, or str
 #### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/achraf1337)
-"
+
