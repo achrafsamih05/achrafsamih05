@@ -40,7 +40,7 @@ I am always open to discussing system architecture, SaaS MVP development, or str
 
 ---
 
-#### GitHub Analytics
+## GitHub Analytics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achrafsamih05&layout=compact&theme=vision-friendly-dark)
 
